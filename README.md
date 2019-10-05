@@ -1,1 +1,1 @@
-This is the MATLAB script files for the proposed TWC-COSQ described in Algorithm 3 in the Thesis. Create three directories named T_0, T_5, and T_10 to store the ultimated quantizers for noise correlation 0,5, and 10, respectively.
+This is the MATLAB script files for the proposed TWC-COSQ described in Algorithm 3 in the Thesis. Create three directories named T_0, T_5, and T_10 to store the ultimate quantizers for noise correlation 0,5, and 10, respectively.
