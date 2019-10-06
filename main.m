@@ -44,7 +44,7 @@ for l = 1 : length (QuantizationLevels)
     numLevel = QuantizationLevels (l);
     for j = 1  : length(rho)
         p = rho (j) ;
-        u = [0 0] ;
+
         for k = 1 : length(i_index)
             i = i_index(k) ;
             Pr = Channel_with_Memory(MODE , epsilon_1 , epsilon_2 , numLevel , i , delta) ;
